@@ -42,7 +42,8 @@ Test RMSE: 0.1775, Test R2: 0.9114
 
 
 Consensus between models: 
-As of September 14, 2025, our models are at a consensus that we are around 1.0 in bubble risk with about a 20% deviation in either direction. This means that we are either at least a month out from a major or minor crash, and its probable that the AI bubble concerns and concerns about a market crash do have weight! Only time will tell if the predictions are correct!
+Model accuracy was impressive with ~76% accuracy on the TIDE models and a whopping ~91% accuracy on our random forest model. Evaluations on a test dataset of the financial information and article sentiment from the past month also seems to be similar across models.
+As of September 14, 2025, the models are at a consensus that we are around 1.0 in bubble risk with about a 15-20% deviation in either direction. This means that we are at least a month out from either a major or minor crash, and its probable that the AI bubble concerns and concerns about a market crash do have weight! Only time will tell if the predictions are correct!
 
 # Conclusions
 Overall, the project was a lot of fun to do! The importance the model placed on specific industries was particularly interesting. It seems that the most important predictive indicator was energy and health care sector ETFs being very low in ratio to SPY, which was rather interesting as its not the first indicator one would think of when trying to predict a bubble. High trading in technology, high volume in consumer and retail sectors, high QQQ to SPY ratio, and high VIX were also indicators the model placed heavy weight on.
