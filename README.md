@@ -18,6 +18,7 @@ Bubble risk was assigned to training data as 0 for low risk, 1 for medium risk, 
 | RMSE   | 0.476        |
 | RMSLE  | 0.28         |
 | R²     | 0.398        |
+
 2020 Model:
 | Metric | Value        |
 |--------|--------------|
