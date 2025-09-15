@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 import requests
 from textblob import TextBlob
 
-TIINGO_API_KEY = "a05c584aa9e153e081f698bb9abcabaeae877fd4"
+TIINGO_API_KEY = "YOUR API KEY HERE"
 days = 30
 use_tiingo = True
 
